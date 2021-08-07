@@ -11,8 +11,9 @@ model.
 1. [scikit-learn](https://scikit-learn.org/stable/)
 2. [cv2](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
 3. [pyscreenshot](https://pypi.org/project/pyscreenshot/)
-4. [Joblib](https://joblib.readthedocs.io/en/latest/)
-5. [pandas](https://pandas.pydata.org/)
+4. [SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+5. [Joblib](https://joblib.readthedocs.io/en/latest/)
+6. [pandas](https://pandas.pydata.org/)
 
 ## Contents
 This repository contains the following files-
