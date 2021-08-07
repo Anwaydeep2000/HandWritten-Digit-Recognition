@@ -5,3 +5,7 @@
 detecting legible handwritten numeric digits.
 - Generated dataset using Pyscreenshot & OpenCv to train the
 model.
+
+## Dependencies
+
+1. scikit-learn[https://scikit-learn.org/stable/]
