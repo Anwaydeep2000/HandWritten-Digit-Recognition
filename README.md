@@ -9,3 +9,7 @@ model.
 ## Dependencies
 
 1. [scikit-learn](https://scikit-learn.org/stable/)
+2. [cv2](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
+3. [pyscreenshot](https://pypi.org/project/pyscreenshot/)
+4. [Joblib](https://joblib.readthedocs.io/en/latest/)
+5. [pandas](https://pandas.pydata.org/)
