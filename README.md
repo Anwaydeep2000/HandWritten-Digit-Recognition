@@ -18,7 +18,7 @@ model.
 This repository contains the following files-
 
 - screen_cap.py - Python Script to capture images of drawn digits.
-![rsz_1screenshot_29](https://user-images.githubusercontent.com/81034448/128590229-05a12ab5-97ce-4770-b3b2-754acb251ec7.png)
+![rsz_1screenshot_29](https://user-images.githubusercontent.com/81034448/128590229-05a12ab5-97ce-4770-b3b2-754acb251ec7.png=250x50)
  
 - gen_dataset.py - Python Script to generate csv.
 ![image](https://user-images.githubusercontent.com/81034448/128590308-8d550421-f0ee-4098-8002-370129bf21d2.png)
