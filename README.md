@@ -8,4 +8,4 @@ model.
 
 ## Dependencies
 
-1. scikit-learn[https://scikit-learn.org/stable/]
+1. [scikit-learn](https://scikit-learn.org/stable/)
