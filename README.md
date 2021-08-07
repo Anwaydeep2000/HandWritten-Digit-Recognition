@@ -17,14 +17,12 @@ model.
 ## Contents
 This repository contains the following files-
 
-- screen_cap.py - Python Script to capture images of drawn digits.
-![rsz_1screenshot_29](https://user-images.githubusercontent.com/81034448/128590229-05a12ab5-97ce-4770-b3b2-754acb251ec7.png=250x50)
+- **screen_cap.py** - Python Script to capture Test images to test the classifier.
  
-- gen_dataset.py - Python Script to generate csv.
-![image](https://user-images.githubusercontent.com/81034448/128590308-8d550421-f0ee-4098-8002-370129bf21d2.png)
+- **gen_dataset.py** - Python Script to generate csv.
 
-- main.py - Python Script to create the classifier file , calculate accuracy and predict handwritten digits.
+- **main.py** - Python Script to create the classifier file , calculate accuracy and predict handwritten digits.
 
-- photo_1.jpg - Test image number 1 to test the classifier
-- photo_2.jpg - Test image numbre 2 to test the classifier
-- Python Script to create the classifier file digits_cls.pkl.Classifier file for digit recognition.
+- **digit_recognizer** - Classifier file for digit recognition.
+
+- **dataset.csv** - The dataset to train the classifier.
