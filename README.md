@@ -26,3 +26,8 @@ This repository contains the following files-
 - **digit_recognizer** - Classifier file for digit recognition.
 
 - **dataset.csv** - The dataset to train the classifier.
+
+## References
+
+- https://thedatafrog.com/en/articles/handwritten-digit-recognition-scikit-learn/
+- https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
