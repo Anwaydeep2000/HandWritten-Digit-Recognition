@@ -17,15 +17,15 @@ model.
 ## Contents
 This repository contains the following files-
 
-- **screen_cap.py :** Python Script to capture Test images to test the classifier.
+- **screen_cap.py :**   Python Script to capture Test images to test the classifier.
  
-- **gen_dataset.py :** Python Script to generate csv.
+- **gen_dataset.py :**   Python Script to generate csv.
 
-- **main.py :** Python Script to create the classifier file , calculate accuracy and predict handwritten digits.
+- **main.py :**   Python Script to create the classifier file , calculate accuracy and predict handwritten digits.
 
-- **digit_recognizer :** Classifier file for digit recognition.
+- **digit_recognizer :**   Classifier file for digit recognition.
 
-- **dataset.csv :** The dataset to train the classifier.
+- **dataset.csv :**   The dataset to train the classifier.
 
 ## Online References
 
